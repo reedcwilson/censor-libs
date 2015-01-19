@@ -1,12 +1,6 @@
-#require './obscenity/error'
 require './obscenity/config'
 require './obscenity/base'
-#require './obscenity/version'
 require 'yaml'
-
-#if defined?(::RSpec)
-  #require 'obscenity/rspec_matcher'
-#end
 
 module Obscenity extend self
   
