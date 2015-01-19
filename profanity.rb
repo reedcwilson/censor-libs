@@ -8,7 +8,13 @@ file = File.open(file_name, "r")
 book = file.read
 file.close
 
-edited_book = Obscenity.replacement("[censored]").sanitize(book)
+sentences = book.split(/\./)
+
 out = File.new(file_name + ".edited.txt", "w")
-out.write(edited_book)
+
+sentences.each do |sentence|
+  edited = Obscenity.replacement("[censored]").sanitize(sentence)
+  out.write(edited)
+end
+
 out.close

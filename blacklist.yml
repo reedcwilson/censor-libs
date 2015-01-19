@@ -1,10 +1,10 @@
 ---
-#test: noun
-#tests: noun-plural
-#red: adjective
-#wow: exclaim
-#running: verb
-#blasted: verb-past
+test: noun
+tests: noun-plural
+red: adjective
+wow: exclaim
+running: verb
+blasted: verb-past
 
 anus: noun
 anal: noun

@@ -96,7 +96,7 @@ module Obscenity
 
       private
       def get_random_word(words)
-        words[rand(0..words.length)].to_s
+        words[rand(0..words.length-1)].to_s
       end
 
     end
