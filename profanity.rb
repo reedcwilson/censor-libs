@@ -13,7 +13,7 @@ sentences = book.split(/\./)
 out = File.new(file_name + ".edited.txt", "w")
 
 sentences.each do |sentence|
-  edited = Obscenity.replacement("[censored]").sanitize(sentence)
+  edited = Obscenity.replacement("[censored]").sanitize(sentence) << '.'
   out.write(edited)
 end
 
