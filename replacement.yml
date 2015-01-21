@@ -13,26 +13,56 @@ noun:
   - salad 
   - toejam 
   - curtain
-  - Llamamoramma and the Splendiferous Cupcake Experience 
   - beet 
   - toilet 
   - stick figure
+  - pirate
   - mermaid egg
   - sea barnacle
   - dragon
   - jellybean
+  - castaway jack
+  - rocketship
+  - ding dong
+  - trash bag
+  - garbage truck
+  - gorilla
+  - zebra stripe
   - snake
   - doll
   - cookie
   - apple
   - ice cream 
+  - creme brulee
+  - steering wheel
+  - lava lamp
+  - millennium falcon
+  - Han Solo
+  - Darth Vader
+  - Jabba the Hutt
+  - Peter Pan
+  - Captain Hook
+  - Gandolf
+  - Sauron
+  - Saruman
+  - Dumbledorf
+  - Voldemort
+  - Belgarath
+  - Torak
   - Tom Bombadil
   - carbuncle
+  - wet sock
+  - cumulonimbus cloud
+  - lightbulb
+  - dinosaur
+  - lobster
+  - shark
   - didgeridoo
   - noggin
   - pantaloon
   - tater
   - tuber
+  - Llamamoramma and the Splendiferous Cupcake Experience 
   - viper
 
 exclaim:
@@ -40,17 +70,121 @@ exclaim:
   - poof
   - pow
   - bam
+  - boom
+  - boomerang
+  - crash
+  - clapow
+  - bleigh
+  - checkmate
+  - hot iron
+  - hot biscuits and gravy
   - great googly moogly
   - for crying out Pete
   - sweet sassy molassy
+  - slap me silly
+  - by the hand of Midas
   - jiminey crickets
   - Thor's hammer
   - good gravy
   - fiddlesticks
   - cripes
   - Merlin's beard
+  - sweet sassafras
+  - good grief
+  - yeow
+  - mercy me
   - leapin lizards
   - pickles
+
+adverb:
+  - accidentally
+  - angrily
+  - anxiously
+  - awkwardly
+  - badly
+  - blindly
+  - boastfully
+  - boldly
+  - bravely
+  - brightly
+  - cheerfully
+  - coyly
+  - crazily
+  - defiantly
+  - deftly
+  - deliberately
+  - devotedly
+  - doubtfully
+  - dramatically
+  - dutifully
+  - eagerly
+  - elegantly
+  - enormously
+  - evenly
+  - eventually
+  - exactly
+  - faithfully
+  - finally
+  - foolishly
+  - fortunately
+  - frantically
+  - frequently
+  - gleefully
+  - gracefully
+  - happily
+  - hastily
+  - honestly
+  - hopelessly
+  - hungrily
+  - innocently
+  - inquisitively
+  - irritably
+  - jealously
+  - justly
+  - kindly
+  - lazily
+  - loosely
+  - madly
+  - merrily
+  - mortally
+  - mysteriously
+  - nervously
+  - obediently
+  - obnoxiously
+  - occasionally
+  - perfectly
+  - politely
+  - poorly
+  - powerfully
+  - promptly
+  - quickly
+  - rapidly
+  - rarely
+  - regularly
+  - rudely
+  - safely
+  - selfishly
+  - seriously
+  - shakily
+  - sharply
+  - silently
+  - solemnly
+  - speedily
+  - steadily
+  - sternly
+  - technically
+  - tediously
+  - tenderly
+  - terrifically
+  - tightly
+  - totally
+  - tremendously
+  - unexpectedly
+  - victoriously
+  - vivaciously
+  - warmly
+  - wearily
+  - wildly
 
 adjective:
   - cantankerous
@@ -64,7 +198,6 @@ adjective:
   - tasteless
   - voiceless
   - defamatory
-  - dilatory
   - egregious
   - baleful
   - bilious
@@ -72,7 +205,6 @@ adjective:
   - calamitous
   - bellicose
   - caustic
-  - dowdy
   - execrable
   - feckless
   - incendiary
@@ -107,7 +239,6 @@ verb:
   - advantaging
   - allegorising
   - allowancing
-  - alloying
   - alphabetizing
   - altercating
   - ambushing
@@ -185,7 +316,6 @@ verb-past:
   - advantaged
   - allegorised
   - allowanced
-  - alloyed
   - alphabetized
   - altercated
   - ambushed
@@ -249,3 +379,80 @@ verb-past:
   - filched
   - finagled
   - flabbergasted
+
+verb-present:
+  - abdicates
+  - absconds
+  - acclaims
+  - acclimatises
+  - adductes
+  - adjourns
+  - adjudicates
+  - admonishes
+  - adsorbes
+  - advantages
+  - allegorises
+  - allowances
+  - alphabetizes
+  - altercates
+  - ambushes
+  - amortises
+  - amputates
+  - asphyxiates
+  - atomises
+  - avowes
+  - bemoans
+  - berates
+  - beseeches
+  - bewails
+  - bewitches
+  - blabbes
+  - bleares
+  - bleepes
+  - bloodsucks
+  - bloops
+  - blubbers
+  - boggles
+  - chimes
+  - clacks
+  - clamors
+  - clangs
+  - cleaves
+  - clomps
+  - cobbles
+  - coddles
+  - coifs
+  - colors
+  - commiserates
+  - communes
+  - computerises
+  - conjugates
+  - consigns
+  - disunites
+  - divebombs
+  - divines
+  - dodders
+  - dogfights
+  - doodles
+  - doomsays
+  - dumbfounders
+  - earsplitts
+  - earthshakes
+  - electrocutes
+  - elucidates
+  - emaciates
+  - embellishes
+  - embezzles
+  - emotionalizes
+  - ensnarles
+  - entrenches
+  - excommunicates
+  - exhumes
+  - falsifies
+  - fanaticizes
+  - farts
+  - fatigues
+  - fictionalises
+  - filches
+  - finagles
+  - flabbergasts

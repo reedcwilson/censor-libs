@@ -68,6 +68,10 @@ module Obscenity
             '[' << get_random_word(madlibs['verb']) << ']'
           when "verb-past"
             '[' << get_random_word(madlibs['verb-past']) << ']'
+          when "verb-present"
+            '[' << get_random_word(madlibs['verb-present']) << ']'
+          when "adverb"
+            '[' << get_random_word(madlibs['adverb']) << ']'
           when "exclaim"
             '[' << get_random_word(madlibs['exclaim']) << ']'
           else replace(word[0])

@@ -1,43 +1,61 @@
 ---
-test: noun
-tests: noun-plural
-red: adjective
-wow: exclaim
-running: verb
-blasted: verb-past
-
 anus: noun
 anal: noun
 arrse: noun
 arse: noun
 ass: noun
 asses: noun-plural
+asshole: noun
+assholes: noun-plural
+"ass hole": noun
+"ass holes": noun-plural
+"ass load": noun
+assload: noun
+
+bastard: noun
+bastards: noun-plural
 
 biatch: noun
 bitch: noun
+bitches: verb-present
 bitching: verb
 bitchy: adjective
 
 fuck: exclaim
+"fuck it": exclaim
+"fuck you": exclaim
 fucker: noun
 fuckers: noun-plural
 fucked: verb-past
 fucking: verb
+fucks: verb-present
+"mother fucker": noun
+motherfucker: noun
+"mother fuckers": noun-plural
+motherfuckers: noun-plural
 
 hell: noun
 
 shit: noun
-shits: noun-plural
+shits: verb-present
 shitty: adjective
+shitted: verb-past
+shitting: verb
+shithead: noun
+shitload: noun
+"shit load": noun
+bullshit: noun
+"bull shit": noun
 
-damn: exclaim
-damned: verb-past
+"damn it": exclaim
+damn: adverb
+damns: verb-present
+damned: adjective
 damnable: adjective
 damning: adjective
 
 aclit: other
 adick: other
-aids: other
 "alabama porch monkey": other
 "anal intruder": other
 "anal invader": other
@@ -50,8 +68,6 @@ a55: other
 "ass clown": other
 "ass face": other
 "ass fucker": other
-"ass hole": other
-"ass load": other
 "ass much": other
 "ass out": other
 "ass packer": other
@@ -64,9 +80,7 @@ asscrack: other
 "assed out": other
 assface: other
 assfucker: other
-asshole: other
 asslicker: other
-assload: other
 assmunch: other
 assout: other
 asspacker: other
@@ -77,22 +91,18 @@ asswipe: other
 babybatter: other
 "ball breaker": other
 "ball buster": other
-baller: other
-balling: other
 "bat shit": other
 batshit: other
 "bearded clam": other
 "bearded taco": other
 beardedclam: other
 beardedtaco: other
-beaver: other
 beavershot: other
 beeatch: other
 beener: other
 "big baller": other
 bigballer: other
 bimbo: other
-"bite me": other
 biteme: other
 blewinski: other
 "blood fart": other
@@ -108,9 +118,7 @@ blueball: other
 blueballs: other
 boner: other
 "bull dike": other
-"bull shit": other
 bulldike: other
-bullshit: other
 "bung hole": other
 bunghole: other
 "butt bandit": other
@@ -139,12 +147,10 @@ carpeteater: other
 "cherry popper": other
 cherrypopper: other
 chinc: other
-chink: other
 choad: other
 chode: other
 "choke my chicken": other
 "choking the chicken": other
-cocaine: other
 "cock jockey": other
 "cock knocker": other
 "cock lord": other
@@ -161,17 +167,12 @@ cockring: other
 cocksmoker: other
 cocksucker: other
 cocktease: other
-condom: other
 coochie: other
-coon: other
 cootch: other
 cooze: other
-"corn hole": other
-cornhole: other
 "crack ho": other
 "crack spackler": other
 crackbitch: other
-cracker: other
 crackspacker: other
 crackspackler: other
 crakker: other
@@ -224,7 +225,6 @@ cuze: other
 dangelberry: other
 dangleberry: other
 "deez nuts": other
-devil: other
 "dick breath": other
 "dick fiend": other
 "dick head": other
@@ -246,24 +246,13 @@ dike: other
 dikfiend: other
 dikhead: other
 dildo: other
-dingelberry: other
-dingleberry: other
-dipstick: other
-douche: other
-"douche bag": other
 "drain the lizard": other
-drugs: other
 "dune coon": other
 dunecoon: other
 "earning red wings": other
-"eat me": other
 "eat my shorts": other
 eatme: other
-ecstacy: other
-eggplant: other
 ejaculate: other
-fagg: other
-faggot: other
 faghump: other
 fagmunch: other
 felch: other
@@ -278,15 +267,11 @@ fingerbang: other
 fingerbanged: other
 fingerbanger: other
 fingerfuck: other
-flamer: other
-flip: other
 "flogging the bishop": other
 "fore skin": other
-foreskin: other
 fuckface: other
 fucknut: other
 fucknuts: other
-fucks: other
 fuckshit: other
 fuckstick: other
 fuk: other
@@ -306,30 +291,19 @@ furbuger: other
 fudgepacker: other
 "gang bang": other
 gangbang: other
-genocide: other
 gniga: other
 gook: other
 "hairy hatchet wound": other
 "hairy taco": other
 hairyhatchetwound: other
 hairytaco: other
-"half breed": other
-halfbreed: other
 hardon: other
-hermaphrodite: other
-herpes: other
-ho: other
-hoes: other
-hommo: other
-homo: other
 honkey: other
 honky: other
 "hoochie mama": other
-hooker: other
 "horse shit": other
 horseshit: other
 "hot beef injection": other
-incest: other
 "jacking off": other
 jap: other
 "jerking off": other
@@ -348,7 +322,6 @@ jizzmuffin: other
 "jungle bunny": other
 junglebunny: other
 kike: other
-kill: other
 koochie: other
 koochy: other
 kootch: other
@@ -365,46 +338,25 @@ lickcock: other
 licknipple: other
 limpdick: other
 "love canal": other
-lsd: other
 "man whore": other
 mangina: other
 manwhore: other
-marijuana: other
-masturbate: other
-mick: other
 monkeydick: other
 monkeyhumper: other
 mooli: other
-"mother fucker": other
-motherfucker: other
-"mud people": other
-"mud person": other
 mudpeople: other
 mudperson: other
-muff: other
 "muff diver": other
 muffdiver: other
 muli: other
-murder: other
-nazi: other
-niger: other
 nigga: other
 niggah: other
-nigger: other
-nip: other
-nipple: other
-nutted: other
-nutter: other
-nutting: other
 "one way pipe cleaner": other
 panocha: other
-pcp: other
-pecker: other
 "pecker head": other
 "pecker nose": other
 peckerhead: other
 peckernose: other
-pedophile: other
 "penis breath": other
 penisbreath: other
 phelch: other
@@ -414,12 +366,10 @@ pheltcher: other
 phlip: other
 "pillow biter": other
 pillowbiter: other
-pimp: other
 "pinis wrinkle": other
 piniswrinkle: other
 "pipe hitter": other
 pipehitter: other
-piss: other
 pissdrinker: other
 pisslicker: other
 pito: other
@@ -429,7 +379,6 @@ polesitter: other
 polesmoker: other
 "polish the bishop": other
 "polishing the torpedo": other
-polock: other
 "poon tang": other
 poontang: other
 "poop chute": other
@@ -438,11 +387,7 @@ poopchute: other
 poopstain: other
 "popped cherry": other
 poppedcherry: other
-prick: other
-psilocybin: other
 pu55y: other
-pussie: other
-pussy: other
 "pussy juice": other
 "pussy juiced": other
 "pussy juicer": other
@@ -462,11 +407,6 @@ pv55ie: other
 pv55y: other
 "rag head": other
 raghead: other
-rectal: other
-rectum: other
-redneck: other
-retard: other
-retarded: other
 "rim job": other
 rimjob: other
 "rug munch": other
@@ -482,20 +422,17 @@ sambo: other
 "sand nigger": other
 sandniggah: other
 sandnigger: other
-satanic: other
 schlong: other
 "scrubbing the carrot": other
 shiteater: other
 shitface: other
 shitfaced: other
 shitfucker: other
-shithead: other
 shitkicker: other
 shitpusher: other
 shitshover: other
 "5h1t": other
 "5hit": other
-skank: other
 "skin flute": other
 skullfuck: other
 skullfucked: other
@@ -505,20 +442,10 @@ skullfucks: other
 "slaping the sausage": other
 "slit licker": other
 slitlicker: other
-slope: other
-slut: other
 "slut bag": other
 slutbag: other
 smegma: other
 snog: other
-sodomise: other
-sodomised: other
-sodomiser: other
-sodomite: other
-sodomize: other
-sodomized: other
-sodomizer: other
-sodomy: other
 "spank the monkey": other
 "sphincter boy": other
 "sphincter face": other
@@ -528,21 +455,13 @@ spic: other
 spick: other
 spik: other
 "spunk monkey": other
-suicide: other
-taint: other
 "tar baby": other
 tarbaby: other
-tard: other
-testes: other
-testicles: other
-testicular: other
 "tip polisher": other
-tit: other
 "tit fuck": other
 "tit fucker": other
 titfuck: other
 titfucker: other
-tits: other
 titty: other
 "titty twisted": other
 "titty twister": other
@@ -552,20 +471,13 @@ tity: other
 "towel head": other
 towelhead: other
 "trailer trash": other
-trailertrash: other
-transsexual: other
-transvestite: other
 twat: other
-"uncle tom": other
 "uplay wid dix": other
 vag: other
 "vagina licker": other
 "welfare rat": other
-"wet back": other
 wetback: other
 "whacking off": other
-"white trash": other
-whore: other
 wop: other
 "wrapping the weasel": other
 yclit: other
